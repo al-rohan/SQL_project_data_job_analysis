@@ -56,7 +56,7 @@ LIMIT 10;
 Key takeaways:
 - **Wide Salary Range:** The top 10 roles span from $184,000 to $600,000, showing massive earning potential.
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T appear, reflecting demand across industries.
-- **Varied Job Titles:** From Data Analyst to Director of Analytics, titles vary widely, showing many paths within the field.  
+- **Varied Job Titles:** From Data Analyst to Director of Analytics, titles vary widely, showing many paths within the field.    
 ![Top Paying Roles](assests\1_top_paying_roles.png)
 *Bar graph visualizing the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results.*  
 
