@@ -57,7 +57,7 @@ Key takeaways:
 - **Wide Salary Range:** The top 10 roles span from $184,000 to $600,000, showing massive earning potential.
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T appear, reflecting demand across industries.
 - **Varied Job Titles:** From Data Analyst to Director of Analytics, titles vary widely, showing many paths within the field.  
-![Top Paying Roles](assests\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results.*  
 
 ### 2. Skills for Top Paying Jobs
@@ -97,7 +97,7 @@ Key takeaways:
 - **Python** follows closely, appearing in 7 roles.
 - **Tableau** is highly sought after, appearing in 6 roles.
 - Tools like **R**, **Snowflake**, **Pandas**, and **Excel** also show up frequently.
-![Top Paying Skills](2_top_paying_skills.png)
+![Top Paying Skills](assets/2_top_paying_skills.png)
 *Bar graph showing skill frequency across the top 10 paying data analyst jobs; ChatGPT generated this graph.*  
 
 ### 3. In-Demand Skills for Data Analysts
